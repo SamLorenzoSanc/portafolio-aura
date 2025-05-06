@@ -26,7 +26,7 @@ const timelineData = [
   {
     year: "2021",
     title: "Ciclo Superior en ASIR",
-    company: "IES El Médano",
+    company: "IES Jose María Perez Pulido",
     description: "Graduado con Matrícula de Honor en Administración de Sistemas Informáticos en Red. Especialización en redes, sistemas operativos y seguridad informática.",
     type: "education"
   }
